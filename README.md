@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Maruf Billah
+# Mohammad Maruf Billah
 
 ## About Me
 I am a Ph.D. candidate in Geospatial Science and Engineering in the department of Geography & Geospatial Sciencesat South Dakota State University, specializing in Remote Sensing Engineering. My research focuses on UAV and satellite remote sensing, geospatial artificial intelligence, machine learning, and crop phenotyping for agricultural monitoring. I work on developing advanced methods for crop trait estimation, including yield, grain quality, and leaf area index (LAI), using multispectral imagery, deep learning, and domain adaptation techniques.
