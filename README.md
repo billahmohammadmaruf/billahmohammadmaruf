@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mohammad Maruf Billah
 
-<!--
-**billahmohammadmaruf/billahmohammadmaruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+PhD candidate in the department of Geography & Geospatial Sciences at South Dakota State University.
 
-Here are some ideas to get you started:
+## Research interests
+- UAV remote sensing
+- Machine learning
+- Crop phenotyping
+- GIS and spatial analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- ArcGIS Pro
+- Remote sensing
+- Deep learning
+
+## Contact
+- Email: mohammadmaruf.billah@jacks.sdstate.edu
+- LinkedIn: https://www.linkedin.com/in/mohammad-maruf-billah-5aabaa71/
